@@ -1,0 +1,19 @@
+# dotenv environment variables file
+.env
+
+node_modules
+.env
+coverage
+coverage.json
+
+typechain
+contracts/gen_interfaces
+
+#Hardhat files
+# cache
+artifacts
+cache
+scripts/flat
+metadata
+
+.blackwhale
